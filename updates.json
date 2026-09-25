@@ -7,7 +7,7 @@
       "title": "Amperr 0.1.0",
       "date": "2026-09-25",
       "url": "",
-      "notes": "UNC - 97%, Myriad - 74%, sUNC - ?%",
+      "notes": "- Added an AI based on Google Gemini 2.5 Flash\n- UNC - 98%, Myriad - 74%, sUNC - ?%",
       "prerelease": false
     }
   ]
